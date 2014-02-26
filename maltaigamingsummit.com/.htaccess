@@ -1,0 +1,1 @@
+RewriteEngine On#RewriteRule    ^news/([0-9]+)/(.*)$    ^news_item.php?id=$1      # Handle product requests   RewriteRule ^news/([0-9]+)/.+$ /news/news_item.php?id=$1&lang=en [L,NC,QSA]

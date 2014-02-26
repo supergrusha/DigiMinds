@@ -1,0 +1,41 @@
+[26-Jun-2013 14:15:33 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/DB.php' (include_path='.:/usr/local/php53/pear') in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 6
+[26-Jun-2013 18:43:18 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[26-Jun-2013 18:43:25 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[26-Jun-2013 18:43:29 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[28-Jun-2013 12:27:57 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[28-Jun-2013 12:28:10 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[28-Jun-2013 12:28:27 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[28-Jun-2013 12:29:01 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 29
+[08-Jul-2013 04:31:45 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/counter.php' (include_path='.:/usr/local/php53/pear') in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 4
+[10-Jul-2013 07:09:46 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 57
+[10-Jul-2013 10:57:51 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 56
+[11-Jul-2013 20:14:06 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 34
+[12-Jul-2013 14:54:12 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 34
+[13-Jul-2013 15:26:43 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 34
+[20-Jul-2013 13:33:00 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[21-Jul-2013 15:44:09 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[24-Jul-2013 06:24:56 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[25-Jul-2013 03:46:03 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[25-Jul-2013 23:31:27 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[27-Jul-2013 01:37:05 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[28-Jul-2013 11:52:14 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[31-Jul-2013 20:17:12 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[01-Aug-2013 11:53:56 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[02-Aug-2013 13:10:55 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/DB.php' (include_path='.:/usr/local/php53/pear') in /home/digitial/public_html/vallettaboatshow.com/news/index.php on line 2
+[04-Aug-2013 06:51:10 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[04-Aug-2013 06:51:19 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 49
+[06-Aug-2013 21:30:06 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[08-Aug-2013 23:24:37 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[13-Aug-2013 01:07:34 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[14-Aug-2013 21:37:29 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[16-Aug-2013 07:21:06 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[16-Aug-2013 14:10:31 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[17-Aug-2013 07:42:33 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[17-Aug-2013 07:42:50 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[20-Aug-2013 07:47:08 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[20-Aug-2013 22:47:47 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[23-Aug-2013 08:26:02 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[04-Sep-2013 10:02:26 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[04-Sep-2013 10:02:31 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/news/news_item.php on line 50
+[02-Dec-2013 12:38:11 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/maltaigamingsummit.com/news/news_item.php on line 33
+[25-Feb-2014 01:37:14 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/maltaigamingsummit.com/news/news_item.php on line 33

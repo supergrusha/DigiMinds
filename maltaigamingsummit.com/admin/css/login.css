@@ -1,0 +1,119 @@
+/* 
+    Document   : admin.css
+    Created on : Feb 10, 2013, 7:48:56 PM
+    Author     : Arthur
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@font-face {
+    font-family: HelveticaNeue;
+    
+    src: url('HelveticaNeueLTStd-Bd.eot');
+    src: url('HelveticaNeueLTStd-Bd.otf');
+}
+root { 
+    display: block;
+}
+body{
+    background-color: #dbd9d9;
+    margin-top: 10%;
+}
+h1{
+    margin: 0px;
+    line-height: 1.1;
+    float: left;
+    margin-left: 10px;
+    color: black;
+    font-size: 13pt;
+    font-family: HelveticaNeue;
+    margin-left: 10px;
+    font-weight: normal;
+}
+#login{
+    
+    width: 270px;
+    margin: auto;
+}
+#logo{
+    width: 223px;
+    height: 80px;
+    margin: auto;
+    background-image: url('../images/logo.png');
+    margin-bottom: 10px;
+}
+#content{
+    height: 225px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px rgb(204, 204, 204);  
+    
+}
+#head{
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 12px;
+    background-color: #e1e2e2;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);  
+}
+#main{
+    padding: 15px;
+    width: 240px;
+    height: 165px;
+    border-radius: 5px;
+}
+#head img{
+    float: left;
+}
+.area{
+    height: 23px;
+    width: 226px;
+    padding: 7px;
+   -moz-box-shadow:    inset 0 0 5px lightgray;
+   -webkit-box-shadow: inset 0 0 5px lightgray;
+    box-shadow: inset 0 0 3px rgb(163, 163, 163);
+   -o-box-shadow:      inset 0 0 5px lightgray;
+   border-radius: 3px;
+   margin-bottom: 15px;
+   
+}
+.area img{
+    float: left;
+}
+input{
+    float: left;
+    margin: 0px;
+    border: none;
+    height: 21px;
+    margin-left: 5px;
+    outline:none;
+    padding-left: 9px;
+    color: e1e2e2;
+}
+.login{
+    width: 240px;
+    height: 45px;
+    color: white;
+    font-weight: bold;
+ background: rgb(79,133,187); /* Old browsers */
+background: -moz-linear-gradient(-45deg, rgba(79,133,187,1) 0%, rgba(79,133,187,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(79,133,187,1)), color-stop(100%,rgba(79,133,187,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg, rgba(79,133,187,1) 0%,rgba(79,133,187,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg, rgba(79,133,187,1) 0%,rgba(79,133,187,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg, rgba(79,133,187,1) 0%,rgba(79,133,187,1) 100%); /* IE10+ */
+background: linear-gradient(135deg, rgba(79,133,187,1) 0%,rgba(79,133,187,1) 100%); /* W3C */
+border: none; 
+    border-radius: 3px;
+}
+#message{
+    border: 2px solid #f5c69a;
+    color: #ce2700;
+    border-radius: 3px;
+    background-color: #fbd3b1;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+
+

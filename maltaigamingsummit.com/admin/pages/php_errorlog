@@ -1,0 +1,8 @@
+[08-Jul-2013 03:26:50 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/digitial/public_html/vallettaboatshow.com/classes/DB.php on line 43
+[28-Jul-2013 07:22:07 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/digitial/public_html/vallettaboatshow.com/classes/DB.php on line 43
+[26-Feb-2014 07:45:12 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/editPage.php on line 1
+[26-Feb-2014 07:45:18 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/editPage.php on line 1
+[26-Feb-2014 07:45:46 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/editPage.php on line 1
+[26-Feb-2014 07:45:52 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/editPage.php on line 1
+[26-Feb-2014 07:47:27 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/editPage.php on line 1
+[26-Feb-2014 07:48:22 CST6CDT] PHP Fatal error:  Call to undefined function phpsession_start() in /home/digitial/public_html/maltaigamingsummit.com/admin/pages/processEdit.php on line 1

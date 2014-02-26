@@ -1,0 +1,55 @@
+[02-Jul-2013 10:28:41 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:29:28 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:30:28 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:31:57 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:32:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:33:19 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 10:42:35 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 12:19:40 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 12:20:35 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 13:01:43 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 13:02:27 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 13:02:42 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/about.php on line 1
+[02-Jul-2013 13:21:50 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:22:03 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:22:20 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:22:37 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:22:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:26:19 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:26:23 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:26:26 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:26:31 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:26:36 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:27:47 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:28:14 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:28:16 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:29:37 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:29:42 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:32:10 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:32:50 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/app.php on line 1
+[02-Jul-2013 13:38:46 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/parking.php on line 1
+[02-Jul-2013 13:38:53 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/parking.php on line 1
+[02-Jul-2013 13:40:00 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:42:28 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:42:53 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:50:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/ticket.php on line 1
+[02-Jul-2013 13:53:41 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/the-organizers.php on line 1
+[02-Jul-2013 13:54:05 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/the-organizers.php on line 1
+[02-Jul-2013 13:54:08 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/the-organizers.php on line 1
+[02-Jul-2013 13:54:25 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/the-organizers.php on line 1
+[02-Jul-2013 15:08:31 CST6CDT] PHP Fatal error:  Call to undefined function phpinclude() in /home/digitial/public_html/vallettaboatshow.com/the-organizers.php on line 1
+[02-Jul-2013 15:38:34 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digitial/public_html/vallettaboatshow.com/index.php on line 1
+[02-Jul-2013 15:39:54 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digitial/public_html/vallettaboatshow.com/index.php on line 1
+[03-Jul-2013 18:07:19 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/about.php on line 30
+[03-Jul-2013 18:07:40 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/about.php on line 30
+[03-Jul-2013 18:07:57 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/about.php on line 30
+[03-Jul-2013 18:08:31 CST6CDT] PHP Fatal error:  Call to a member function autoVer() on a non-object in /home/digitial/public_html/vallettaboatshow.com/about.php on line 30
+[08-Jul-2013 13:14:03 CST6CDT] PHP Fatal error:  Unsupported operand types in /home/digitial/public_html/vallettaboatshow.com/index.php on line 40
+[08-Jul-2013 13:14:07 CST6CDT] PHP Fatal error:  Unsupported operand types in /home/digitial/public_html/vallettaboatshow.com/index.php on line 40
+[08-Jul-2013 13:14:10 CST6CDT] PHP Fatal error:  Unsupported operand types in /home/digitial/public_html/vallettaboatshow.com/index.php on line 40
+[08-Jul-2013 14:09:05 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/digitial/public_html/vallettaboatshow.com/index.php on line 88
+[16-Jul-2013 13:02:42 CST6CDT] PHP Fatal error:  Call to undefined function phprequire_once() in /home/digitial/public_html/vallettaboatshow.com/index_1.php on line 1
+[16-Jul-2013 13:02:47 CST6CDT] PHP Fatal error:  Call to undefined function phprequire_once() in /home/digitial/public_html/vallettaboatshow.com/index_1.php on line 1
+[16-Jul-2013 15:41:31 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/digitial/public_html/vallettaboatshow.com/process_contactForm.php on line 1
+[16-Jul-2013 15:42:34 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/digitial/public_html/vallettaboatshow.com/process_contactForm.php on line 1
+[06-Nov-2013 12:02:31 CST6CDT] PHP Fatal error:  Class 'Version' not found in /home/ericmlt9/public_html/igamingforum/index.php on line 6
