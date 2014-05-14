@@ -9,7 +9,7 @@ a .main-logo{margin-top:3px;}
 .center-block.title{margin-top:10px;}
 p.subheading{color:#60b0e2;}
 p.banner-text{color:#999b9d; font-size:11px;}
-.col-md-5.banner{margin-left:5px}
+.col-md-5.banner{margin-left:5px; width: 400px}
 .arrow-left{float:left; width:63px; height:63px; background: #72c0e5 url('../img/arrowleft.png') center center no-repeat;; margin:160px 0 0 5px;}
 .arrow-right{float:right; width:63px; height:63px; background: #72c0e5 url('../img/arrowright.png') center center no-repeat; margin:160px 5px 0 0;}
 .arrow-right:hover{ background: #a6d3e7 url('../img/arrowright.png') center center no-repeat;}
@@ -28,3 +28,4 @@ input[type="search"]{font:12px "OpenSansItalic", Arial, Helvatica, sans-serif; c
 input[type="submit"]{height:30px; width:40px; background:#fff; color:#acacac; margin:0; padding:0; text-align:center; border:1px solid #e1e1e1; padding:0; outline:0 none; margin-right:10px;}
 
 .container.mobile.hidden-lg{text-align:center; margin:20px 0 0 0;}
+

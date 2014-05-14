@@ -1,0 +1,4 @@
+.banner-container{ position:relative; height:234px;}
+.banner {float:left; width:100%; height:234px; overflow:hidden;}
+.banner ul {float:left; width:100%; height:234px; margin:0; padding:0; list-style:none;}
+.banner ul li {margin:0;padding:0;}
