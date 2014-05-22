@@ -28,4 +28,7 @@ input[type="search"]{font:12px "OpenSansItalic", Arial, Helvatica, sans-serif; c
 input[type="submit"]{height:30px; width:40px; background:#fff; color:#acacac; margin:0; padding:0; text-align:center; border:1px solid #e1e1e1; padding:0; outline:0 none; margin-right:10px;}
 
 .container.mobile.hidden-lg{text-align:center; margin:20px 0 0 0;}
+.container.mid.main{margin-top:63px;}
+h4.about-title{margin:0px; color:#737373; font-weight:bold; font-size:15px; margin-bottom:10px;}
+p.text{text-align:left; color:#737373; font-size:14px;}
 
