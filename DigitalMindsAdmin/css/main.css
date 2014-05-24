@@ -6122,4 +6122,6 @@ canvas {
   border-bottom: 1px solid transparent;
   padding: 0;
 }
+
+a.pagemenuhover:hover{color:red;}
 /*# sourceMappingURL=main.css.map */
