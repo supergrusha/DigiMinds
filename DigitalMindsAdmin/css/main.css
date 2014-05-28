@@ -6124,4 +6124,6 @@ canvas {
 }
 
 a.pagemenuhover:hover{color:red;}
+a.forgotpass{float:right; text-decoration:underline;}
+a.forgotpass:hover{color:red;}
 /*# sourceMappingURL=main.css.map */
