@@ -3,7 +3,7 @@
 class Pages_model extends CI_Model {
 
     function get_page_content_list() {
-        $sql = $this->db->query('SELECT content_id, page_id, users_username, content_edit_date FROM content JOIN users WHERE users.users_id=content.user_id');
+        $sql = $this->db->query('SELECT content_id, det.page_id, users_username, content_edit_date, pageDet_name FROM content JOIN users JOIN pagedetails AS det WHERE users.users_id=content.user_id AND det.page_id=content.page_id');
         if ($sql->num_rows() > 0) {
             foreach ($sql->result() as $row) {
                 $data[] = $row;

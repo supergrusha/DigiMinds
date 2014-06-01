@@ -9,21 +9,28 @@ class Login extends CI_Controller {
 
     function validate_credentials() {
         $this->load->model('login_model');
-        $query = $this->login_model->validate();
-
-        if ($query) {
-            $data = array(
-                'username' => $this->input->post('username'),
-                'is_logged_in' => TRUE
-            );
+        $result = $this->login_model->validate();
+        if (isset($result)) {
+            foreach ($result as $row) {
+                $data = array(
+                    'username' => $this->input->post('username'),
+                    'is_logged_in' => TRUE,
+                    'user_id' => $row->users_id,
+                    'name' => $row->users_name,
+                    'email' => $row->users_email,
+                    'user_type' => $row->userType_id
+                );
+            }
             $this->session->set_userdata($data);
-            redirect(base_url().'settings');
+            redirect(base_url() . 'settings');
         } else {
             $this->index();
         }
     }
-    function log_out(){
+
+    function log_out() {
         $this->session->sess_destroy();
-        redirect(base_url().'login');
+        redirect(base_url() . 'login');
     }
+
 }
