@@ -44,7 +44,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">Settings</a>
+                    <a href="<?php echo base_url();?>account">Settings</a>
                 </li>
 
                 <li>

@@ -30,7 +30,7 @@
 }
 .audioplayer-mini .audio-title {
   opacity: 0;
-  filter: alpha(opacity=0 * 100);
+  filter: alpha(opacity=0  100);
 }
 .audioplayer-playpause {
   top: 0;

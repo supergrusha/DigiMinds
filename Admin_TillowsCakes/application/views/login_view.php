@@ -39,7 +39,7 @@
                     <h6>
                         <strong>Welcome.</strong>Sign in to get started!</h6>
 
-                    <form role="form" action="login/validate_credentials" method="post">
+                    <form role="form" action="<?php echo base_url();?>login/validate_credentials" method="post">
                         <input type="text" name="username" class="form-control mg-b-sm" placeholder="Username" autofocus>
                         <input type="password" name="password" class="form-control" placeholder="Password">
                         <label class="checkbox pull-left">
